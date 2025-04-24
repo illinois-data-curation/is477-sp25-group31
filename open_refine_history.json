@@ -1,0 +1,25 @@
+[
+  {
+    "op": "core/column-split",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "NAME",
+    "guessCellType": true,
+    "removeOriginalColumn": true,
+    "mode": "separator",
+    "separator": ",",
+    "regex": false,
+    "maxColumns": 0,
+    "description": "Split column NAME by separator"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "NAME 1",
+    "newColumnName": "City",
+    "description": "Rename column NAME 1 to City"
+  }
+]
+
+
