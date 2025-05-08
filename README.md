@@ -1,9 +1,5 @@
 # **Weather and Traffic Accidents in Chicago (2025)**
 
-## **Link to Archival Record**
-
-* \[Zenodo DOI Placeholder – Replace with actual link once uploaded\]
-
 ## **Contributors**
 
 * Ananya Vijaykumar  
