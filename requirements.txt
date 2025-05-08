@@ -1,0 +1,5 @@
+snakemake
+requests
+scikit-learn
+pandas
+matplotlib
