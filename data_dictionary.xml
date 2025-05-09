@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.3/metadata.xsd">
+  <identifier identifierType="DOI">10.5281/zenodo.15368561</identifier>
+  <alternateIdentifiers>
+    <alternateIdentifier alternateIdentifierType="URL">https://zenodo.org/records/15368561</alternateIdentifier>
+    <alternateIdentifier alternateIdentifierType="oai">oai:zenodo.org:15368561</alternateIdentifier>
+  </alternateIdentifiers>
+  <creators>
+    <creator>
+      <creatorName nameType="Personal">ananyavk</creatorName>
+      <familyName>ananyavk</familyName>
+    </creator>
+    <creator>
+      <creatorName nameType="Personal">snehalrairikar</creatorName>
+      <familyName>snehalrairikar</familyName>
+    </creator>
+  </creators>
+  <titles>
+    <title>illinois-data-curation/is477-sp25-group31: Final Project Release</title>
+  </titles>
+  <publisher>Zenodo</publisher>
+  <publicationYear>2025</publicationYear>
+  <dates>
+    <date dateType="Issued">2025-05-08</date>
+    <date dateType="Created">2025-05-08</date>
+    <date dateType="Updated">2025-05-08</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Software"></resourceType>
+  <relatedIdentifiers>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="IsSupplementTo" resourceTypeGeneral="Software">https://github.com/illinois-data-curation/is477-sp25-group31/tree/final-project</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="IsVersionOf">10.5281/zenodo.15368532</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="IsIdenticalTo">https://archive.softwareheritage.org/swh:1:dir:84244c1c5b00f1c51db50ff93294e4faf921eaa4;origin=https://doi.org/10.5281/zenodo.15368532;visit=swh:1:snp:a0df1fc6410170a0a4af49b8c772714aaf6a714a;anchor=swh:1:rel:7de506482fde6b6356613b31e22abf091f7cd12d;path=illinois-data-curation-is477-sp25-group31-83a23ff</relatedIdentifier>
+  </relatedIdentifiers>
+  <version>final-project</version>
+  <rightsList>
+    <rights rightsURI="https://creativecommons.org/licenses/by/4.0/legalcode" rightsIdentifierScheme="spdx" rightsIdentifier="cc-by-4.0">Creative Commons Attribution 4.0 International</rights>
+    <rights rightsURI="https://opensource.org/licenses/MIT" rightsIdentifierScheme="spdx" rightsIdentifier="mit">MIT License</rights>
+  </rightsList>
+  <descriptions>
+    <description descriptionType="Abstract">The goal of this project is to explore the relationship between weather conditions and traffic accident rates in Chicago from January 1, 2025, to April 20, 2025.</description>
+  </descriptions>
+</resource>
